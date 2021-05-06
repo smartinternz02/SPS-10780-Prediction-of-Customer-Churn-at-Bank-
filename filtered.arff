@@ -1,4 +1,4 @@
-@RELATION filtered
+@RELATION Bank_Churn
 
 @ATTRIBUTE 'CreditScore' REAL
 @ATTRIBUTE 'Age' REAL
